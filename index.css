@@ -7,9 +7,12 @@ body{
 }
 
 body{
-   color:#fdffff;
+   color:#fffbfd;
    margin-top: 250px;
    text-align: center;
+   width: 300px;
+   margin-left: auto;
+   margin-right: auto;
 }
 
 .clicked{
